@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injector", "injector\injector.vcxproj", "{32828B4A-428F-457D-93AF-BD201D83E83A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hook", "hook\hook.vcxproj", "{2B541B0D-E176-4BB6-A434-653D8770F2B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blackhat", "blackhat\blackhat.vcxproj", "{0D098609-0DD3-4849-B6A9-264BDEB14861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32828B4A-428F-457D-93AF-BD201D83E83A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{32828B4A-428F-457D-93AF-BD201D83E83A}.Debug|Win32.Build.0 = Debug|Win32
+		{32828B4A-428F-457D-93AF-BD201D83E83A}.Release|Win32.ActiveCfg = Release|Win32
+		{32828B4A-428F-457D-93AF-BD201D83E83A}.Release|Win32.Build.0 = Release|Win32
+		{2B541B0D-E176-4BB6-A434-653D8770F2B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B541B0D-E176-4BB6-A434-653D8770F2B2}.Debug|Win32.Build.0 = Debug|Win32
+		{2B541B0D-E176-4BB6-A434-653D8770F2B2}.Release|Win32.ActiveCfg = Release|Win32
+		{2B541B0D-E176-4BB6-A434-653D8770F2B2}.Release|Win32.Build.0 = Release|Win32
+		{0D098609-0DD3-4849-B6A9-264BDEB14861}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D098609-0DD3-4849-B6A9-264BDEB14861}.Debug|Win32.Build.0 = Debug|Win32
+		{0D098609-0DD3-4849-B6A9-264BDEB14861}.Release|Win32.ActiveCfg = Release|Win32
+		{0D098609-0DD3-4849-B6A9-264BDEB14861}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+.vs
+*.suo
+*.sdf
+*.opensdf
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+*.txt
+*.db
